@@ -1,7 +1,7 @@
 # Immutable Cloud Architecture on AWS  
 
 🚧 **Work in Progress** 🚧  
-This project is under development. Features and configurations will change.  
+This project is under development.
 
 ## Overview  
 This repository contains **Terraform code** to deploy a system that enforces **immutability** in cloud architectures on **AWS**, ensuring infrastructure consistency, security, and cost efficiency.  
